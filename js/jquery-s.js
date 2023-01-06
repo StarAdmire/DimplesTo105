@@ -3381,7 +3381,7 @@ $(function () {
         if (textmd5 == "88749ecae201b93071994d3c025953b0") {
             window.location.href = "./StarAdmireaddppttd.html"
         }else{
-            print("password error!")
+            alert("password error!")
         }
     })
 })
